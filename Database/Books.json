@@ -1,0 +1,112 @@
+[
+    {
+        "shortTitle": "Calm Within the Storm",
+        "fullTitle": "Calm Within the Storm: A Pathway to Everyday Resiliency",
+        "author": "Robyne Hanley-Dafoe",
+        "ratings": 4.8,
+        "price": 23.99,
+        "category": "Psychology",
+        "stock": 100,
+        "image": "/images/Calm Within the Storm.png",
+        "isbn": "978-1234567890"
+    },
+    {
+        "shortTitle": "Paddle to the Amazon",
+        "fullTitle": "Paddle to the Amazon: The Ultimate 12,000-Mile Canoe Adventure",
+        "author": "Don Starkell",
+        "ratings": 4.8,
+        "price": 16.99,
+        "category": "Adventure",
+        "stock": 50,
+        "image": "/images/Paddle to the Amazon.png",
+        "isbn": "978-0987654321"
+    },
+    {
+        "shortTitle": "The Grey Wolf",
+        "fullTitle": "The Grey Wolf: A Novel (Chief Inspector Gamache Novel Book 19)",
+        "author": "Louise Penny",
+        "ratings": 4.6,
+        "price": 14.99,
+        "category": "Mystery",
+        "stock": 80,
+        "image": "/images/The Grey Wolf.png",
+        "isbn": "978-1122334455"
+    },
+    {
+        "shortTitle": "The Teacher",
+        "fullTitle": "The Teacher",
+        "author": "Freida McFadden",
+        "ratings": 4.2,
+        "price": 12.99,
+        "category": "Thriller",
+        "stock": 40,
+        "image": "/images/The Teacher.png",
+        "isbn": "978-2233445566"
+    },
+    {
+        "shortTitle": "Harry Potter: MinaLima Edition",
+        "fullTitle": "Harry Potter and the Philosopher’s Stone: MinaLima Edition",
+        "author": "J.K. Rowling",
+        "ratings": 4.9,
+        "price": 39.99,
+        "category": "Fantasy",
+        "stock": 120,
+        "image": "/images/Harry Potter.png",
+        "isbn": "978-3344556677"
+    },
+    {
+        "shortTitle": "Unified Hearts",
+        "fullTitle": "Unified Hearts: Proven Strategies for Cultivating Lasting Marital Harmony in Blended Families",
+        "author": "Wanderlust Wren",
+        "ratings": 4.8,
+        "price": 19.99,
+        "category": "Relationships",
+        "stock": 70,
+        "image": "/images/Unified Hearts.png",
+        "isbn": "978-4455667788"
+    },
+    {
+        "shortTitle": "The Parenting Plan",
+        "fullTitle": "The Parenting Plan Workbook: A Comprehensive Guide to Building a Strong, Child-Centered Parenting Plan",
+        "author": "Karen Bonnell",
+        "ratings": 4.2,
+        "price": 24.99,
+        "category": "Parenting",
+        "stock": 60,
+        "image": "/images/The Parenting Plan.png",
+        "isbn": "978-5566778899"
+    },
+    {
+        "shortTitle": "Elon Musk",
+        "fullTitle": "Elon Musk",
+        "author": "Walter Isaacson",
+        "ratings": 4.6,
+        "price": 35.99,
+        "category": "Biography",
+        "stock": 150,
+        "image": "/images/Elon Musk.png",
+        "isbn": "978-6677889900"
+    },
+    {
+        "shortTitle": "The First 90 Days",
+        "fullTitle": "The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter",
+        "author": "Michael D. Watkins",
+        "ratings": 4.5,
+        "price": 29.99,
+        "category": "Career Guides",
+        "stock": 100,
+        "image": "/images/The First 90 Days.png",
+        "isbn": "978-7788990011"
+    },
+    {
+        "shortTitle": "Wealth Won’t Wait",
+        "fullTitle": "Wealth Won’t Wait: Escape the 9-5, Regain Your Freedom, and Live in Abundance",
+        "author": "Mike Desormeaux",
+        "ratings": 4.9,
+        "price": 19.99,
+        "category": "Real Estate Investing",
+        "stock": 75,
+        "image": "/images/WEALTH WON'T WAIT.png",
+        "isbn": "978-8899001122"
+    }
+]
